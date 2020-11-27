@@ -1,0 +1,2 @@
+This is a Camtasia library that contains two asset groups (one animated, the other static) with Hexagons allong the bottom of the screen.
+Simple import the ziplib into Camtasia 2020 and drag to the timeline.
